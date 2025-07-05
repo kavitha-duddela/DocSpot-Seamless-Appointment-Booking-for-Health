@@ -226,6 +226,14 @@ Here are the **learning outcomes** of building and working on the **DocSpot – 
 
 # OUTPUT
 
-(IMAGE)(https://github.com/user-attachments/assets/6a7c03c6-cc22-4a26-a341-350a5860be47)
+(IMAGE)(https://github.com/user-attachments/assets/7fc40423-6206-45ff-b007-e0a775417686)
+
+**  Demo video **
+
+https://github.com/user-attachments/assets/07eabd81-0f42-4edb-9440-b33ba8cfc753
+
+
+
+
 
 
