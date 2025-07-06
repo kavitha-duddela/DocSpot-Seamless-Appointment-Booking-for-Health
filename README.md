@@ -12,6 +12,7 @@
 
 # DOCUMENTATION
 
+(https://github.com/user-attachments/files/21084008/doctor_appointment.docx)
 
 
 **DocSpot: Seamless Appointment Booking for Health**
