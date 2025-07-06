@@ -10,6 +10,10 @@
 
 "BATCH DURATION" : 19th MAY 2025 TO 30th JUNE 2025
 
+# DOCUMENTATION
+
+
+
 **DocSpot: Seamless Appointment Booking for Health**
 
 **Overview:**
